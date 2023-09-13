@@ -107,4 +107,3 @@ while(1) {
     roundNum++;
 }
 
-console.log("testing")
